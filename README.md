@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexSacMorane
-- 👀 I’m interested in Geomechanics and Numerical simulations
-- 🌱 I’m currently learning at Duke University, NC, USA and UCLouvain, Belgium under the supervision of Manolis Veveakis (Duke) and Hadrien Rattez (UCL).
+- 👀 I’m interested in Geomechanics and Numerical Simulations
+- 🌱 I’m currently a PhD Candidate at Duke University, NC, USA and UCLouvain, Belgium under the supervision of Manolis Veveakis (Duke) and Hadrien Rattez (UCL).
 - 📫 How to reach me: as1010@duke.edu / alexandre.sac-morane@uclouvain.be
 - 🌎 My personnal website: [alexsacmorane.github.io](https://alexsacmorane.github.io)
 
